@@ -1,6 +1,6 @@
 # snake-vue
 
-### **Please visit https://svintit.github.io/snake-vue/ to play!**
+### **Visit https://svintit.github.io/snake-vue/ to play!**
 <br />
 <br />
 
