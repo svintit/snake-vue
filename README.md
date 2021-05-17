@@ -1,5 +1,10 @@
 # snake-vue
 
+### **Please visit https://svintit.github.io/snake-vue/ to play!**
+<br />
+<br />
+
+# Dev Setup
 ## Project setup
 ```
 yarn install
@@ -20,5 +25,7 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Deploy application to GH pages
+```
+yarn deploy
+```
