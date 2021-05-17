@@ -81,7 +81,7 @@ export default {
         grid.value[getRandomInt(gridSize)][getRandomInt(gridSize)] = "food"
       }
     }
-    setRandomFood(2)
+    setRandomFood(5)
 
     const direction = ref()
     const setDirection = () => {
@@ -93,7 +93,7 @@ export default {
       setGrid()
       setSnakePosition()
       setDirection()
-      setRandomFood()
+      setRandomFood(5)
       gameOver.value = false
       currentScore.value = 0
       run(speed)
